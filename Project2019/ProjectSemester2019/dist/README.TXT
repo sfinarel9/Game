@@ -1,10 +1,8 @@
-Αναλυτική Γραπτή Αναφορά για Project Εξαμήνου στις Αρχές Τεχνολογίας Λογισμικού
-Ακαδημαϊκό έτος 2018-2019 (Εαρινό εξάμηνο)
-Μέλη Ομάδας:
-τπ4737 Ελευθερία Σφηναρολάκη
-τπ4716 Μαριλένα Τζαγκαράκη
-τπ4715 Νικολέτα Γιανναδάκη
-			 		MEMORY GAME
-	Στην εργασία μας υλοποιούμε την διαδικασία που χρειάζεται για την δημιουργία ενός παιχνιδιού και συγκεκριμένα για Memory Game.Σε αυτό το παιχνίδι ο παίκτης επιλέγει ως πρώτο βήμα το επίπεδο δυσκολίας που θέλει(Easy Board(3x4) , Normal Board(4x5) , Hard Board(6x6)),να δηλώσει το όνομα και εν συνεχεία να πατήσει start για να ξεκινήσει το παιχνίδι.Εδώ υπάρχει και η δυνατότητα οδηγιών καθώς επίσης και η επιλογή εξόδου από το παιχνίδι.
-	Όταν ο χρήστης  επιλέξει το εύκολο επίπεδο θα εμφανιστεί ένα νέο παράθυρο με 6 εικόνες και στα επόμενα επίπεδα 20 και 36 αντίστοιχα.Στόχος του παιχνιδιού είναι να γυρίσουμε όλες τις κάρτες, 2 ανά γύρο και να εντοπίσουμε τα ζεύγη που στην περίπτωση του εύκολου επιπέδου ειναι 3 και στα επόμενα επίπεδα 10 και 18 αντίστοιχα.Για κάθε ζεύγος που εντοπίζουμε, κερδίζουμε πόντους οι οποίοι καταγράφονται στην κατώ μεριά.Ξεκινώντας λοιπόν το παιχνίδι ξεκινάει και η αντίστροφη μέτρηση.Ο παραπάνω παίκτης θα παίζει εναλλάξ με έναν δεύτερο παίκτη(τον υπολογιστή).Κρατάει τα αποτελέσματα του σκορ σε ένα αρχείο και ο παίκτης με το μεγαλύτερο σκορ θα είναι και ο νικητής.Εάν ο παίκτης ή ο υπολογιστης δεν μπορέσει να ταιριάξει όλες τις εικόνες μέχρι την λήξη του χρόνου το παιχνίδι σταματάει χώρις επιτυχία.Εάν όμως τα καταφέρει θα εμφανιστεί ένα μήνυμα επιτυχίας.Κατα την διάρκεια του παιχνιδιού ο παίκτης μπορεί να πατήσει το κουμπί Game για να επιλέξει νέο παιχνίδι,restart,εξοδο ή το κουμπι Help για βοήθεια.
-	
+Semester Project Report 
+Course : Principles of Software Engineering
+Academic year : 2018-2019  (Spring semester)
+
+MEMORY GAME
+ In this work the Memory Game is implemented. In this game the player chooses as the first step the level of difficulty he wants (Easy Board (3x4), Normal Board (4x5), Hard Board ( 6x6)), declares his/hers name and then start the game by pressing the 'Start' button. Can either read the instructions  or exit the game. Then  a new window will appear with 6 / 20 / 36 images depending on the level of difficulty chosen.
+ The aim of the game is to turn all the cards, 2 per round and to identify the pairs that in the case of the easy level are 3 and in the next levels 10 and 18 respectively. For each pair the user finds, he earns points which are recorded at the bottom of the Frame.
+ Then by starting the game the countdown begins. The  player is playing alternately with a second player . He keeps the score results in a file and the player with the highest score will be the winner. If none of the players match the cards and the countdoun ends , the game also ends without success. But if he succeeds a message of success will appear. During the game the player has the opportunity to restart or exit the game .
